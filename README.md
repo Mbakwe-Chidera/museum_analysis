@@ -1,7 +1,7 @@
 ![image](https://github.com/Mbakwe-Chidera/museum_analysis/assets/115686557/93f05d9a-0900-49a5-bc6c-4fea40abd9d0)
 
 
-## Museum_Analysis
+# Museum_Analysis
 # Exploring the Art World: Data Analysis and Insights into Paintings, Artists, and Museums
 
 
@@ -73,5 +73,4 @@ Standardize data formats and resolve inconsistencies across fields to facilitate
 4. Continued research and analysis are recommended to monitor evolving trends in the art industry and adapt strategies accordingly to capitalize on emerging opportunities and mitigate risks.
 
 By executing this project, we aim to provide stakeholders in the art industry with valuable insights and actionable recommendations that can drive strategic decision-making and foster growth and innovation within the sector.
-![image](https://github.com/Mbakwe-Chidera/museum_analysis/assets/115686557/1cdc42ab-ae42-489f-99fe-32bb455e0a97)
- ![image](https://github.com/Mbakwe-Chidera/museum_analysis/assets/115686557/b67e616c-6626-4ace-afc5-614458b77608)
+
