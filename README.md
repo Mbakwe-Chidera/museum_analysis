@@ -8,15 +8,19 @@ The objective of this project is to analyse a comprehensive dataset related to p
 
 ## Data Cleaning Process
 
-# 1. Handling Missing Values: Identify and address missing values in critical fields such as museum ID, painting style using appropriate imputation techniques or removing incomplete records.
+# 1. Handling Missing Values: 
+Identify and address missing values in critical fields such as museum ID, painting style using appropriate imputation techniques or removing incomplete records.
  
    
-# 2. Duplicate Record Removal: Eliminate duplicate records from relevant tables, including work, product size, subject to ensure data integrity and accuracy.
+# 2. Duplicate Record Removal: 
+Eliminate duplicate records from relevant tables, including work, product size, subject to ensure data integrity and accuracy.
  
    
-# 3. Data Validation: Validate and rectify any invalid entries or inconsistencies in fields such as museum hours, city names, and date/time formats to enhance data quality and reliability.
+# 3. Data Validation: 
+Validate and rectify any invalid entries or inconsistencies in fields such as museum hours, city names, and date/time formats to enhance data quality and reliability.
    
-# 4. Standardization: Standardize data formats and resolve inconsistencies across fields to facilitate seamless analysis and interpretation of results.
+# 4. Standardization: 
+Standardize data formats and resolve inconsistencies across fields to facilitate seamless analysis and interpretation of results.
 
 ## Step-by-Step Analysis:
 
